@@ -14,7 +14,7 @@ The **Medicine Reminder Website** is a user-friendly platform designed to help i
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript (React.js/Vue.js)
 
-## Usage
+## How to use
 1. Register/Login to the platform.
 2. Add your medications with dosage and timing.
 3. Receive reminders via email/SMS.
